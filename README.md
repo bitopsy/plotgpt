@@ -30,5 +30,7 @@ If you have any questions, encounter issues, or need assistance with PlotGPT, pl
 
 ![PlotGPT Logo](https://pbs.twimg.com/profile_images/1634574451999232001/Rn4gV8DL_200x200.jpg)
 
+Safe Browsing!
+
 
 
