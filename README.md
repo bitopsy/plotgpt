@@ -1,3 +1,6 @@
+<meta name="google-site-verification" content="mH-02EhLaotmhn6gOrh9-SIn_Y74_GalmmX06Dzppus" />
+
+
 # PlotGPT
 ![PlotGPT Screenshot](https://f33.fr:8501/media/83cf597bcca475aeb0df2ff2a2ee28363ccbd53fe2df48e52367ff22.gif)
 
